@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the readings assigned for each session of 11.S955
+  The Sustainability Response to COVID-19.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 802e47b4-505a-b7c4-cd24-6bfb78f24c6d
 Readings for Classes 1 & 2
 --------------------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[APTA report on COVID Best Practices (PDF - 4.9 MB)](https://www.apta.com/wp-content/uploads/APTA_Covid_Best_Practices_09.29.2020.pdf) 
+[APTA report on COVID Best Practices (PDF - 4.9 MB)](https://www.apta.com/wp-content/uploads/APTA_Covid_Best_Practices_09.29.2020.pdf) 
 
 Basu, Garaub (2020). ["A Clean Transportation System Is the Prescription My Patients Need."](https://www.ourtransportationfuture.org/a_clean_transportation_system_is_the_prescription_my_patients_need) _The Boston Globe_ (op-ed), May 25, 2020.
 
