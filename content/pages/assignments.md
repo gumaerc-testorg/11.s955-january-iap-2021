@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section describes the work that students completed in 11.S955 The
+  Sustainability Response to COVID-19.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a5205297-ad98-db1e-7800-82d4f225c9b8
 ---

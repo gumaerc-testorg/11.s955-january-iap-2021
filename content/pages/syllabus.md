@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains a course description and details about the course
+  structure and expectations for 11.S955 The Sustainability Response to COVID-19.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f5d31aeb-5182-4c70-32b6-d3fb1cc3e932
 ---
@@ -43,4 +47,4 @@ You are encouraged to read as much current content relevant to the course purpos
 Course Readings
 ---------------
 
-You are expected to have completed the assigned [course readings]({{< baseurl >}}/pages/readings) before each class, to come to class prepared to discuss the readings, and to use them to inform the collaborations.
+You are expected to have completed the assigned {{% resource_link 802e47b4-505a-b7c4-cd24-6bfb78f24c6d "course readings" %}} before each class, to come to class prepared to discuss the readings, and to use them to inform the collaborations.

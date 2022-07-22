@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section presents a list of links to survey data and other materials
+  that were useful to students in 11.S955 The Sustainability Response to Covid-19.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Additional Resources
 uid: 6cf9f4b4-8552-f3c0-8560-418226ed8a6b
 ---
