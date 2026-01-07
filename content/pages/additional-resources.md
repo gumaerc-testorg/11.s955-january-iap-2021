@@ -8,18 +8,18 @@ ocw_type: CourseSection
 title: Additional Resources
 uid: 6cf9f4b4-8552-f3c0-8560-418226ed8a6b
 ---
-{{% resource_link "88ced79b-7e45-4fa7-8d75-36a2e0966196" "COVID-19 Ridership Survey draft results - Chicago (PDF)" %}}
+[COVID-19 Ridership Survey draft results - Chicago (PDF)](https://www.cmap.illinois.gov/documents/10180/1110040/CTA+COVID-19+Ridership+Survey_CMAP+Transportation+Committee.pdf)
 
-{{% resource_link "c5f76bb0-aac3-45f2-99b3-6080f3e45641" "SUPRC/WGBH/Boston Globe survey (PDF)" %}}
+[SUPRC/WGBH/Boston Globe survey (PDF)](https://web.archive.org/web/20220613123355/http://www.princetonresearchassociates.com/4_20_Suffolk_state_residents_toplines.pdf)
 
-{{% resource_link "6525e1a6-1b6b-4346-99d0-2b9a790a1820" "Slides from Barr Foundation survey results (PDF)" %}}
+[Slides from Barr Foundation survey results (PDF)](https://files.constantcontact.com/e6e14db6301/910fe16e-ea0c-42f8-aada-55c45f192c7d.pdf)
 
-{{% resource_link "0c63648c-f994-42d5-bf55-e75b7c32a773" "Topline from Barr Foundation survey results (PDF)" %}}
+[Topline from Barr Foundation survey results (PDF)](https://files.constantcontact.com/e6e14db6301/de18fa8a-70b5-4f93-bb9d-93310c92b8b2.pdf)
 
-{{% resource_link "3a18ddab-a706-40a3-ae8e-6a8cd98f2622" "Interim 2030 CECP (PDF - 1.4 MB)" %}}
+[Interim 2030 CECP (PDF - 1.4 MB)](https://www.mass.gov/doc/interim-clean-energy-and-climate-plan-for-2030-december-30-2020/download)
 
-{{% resource_link "37faebae-065e-4089-b919-f2f69f3d0ca6" "Massachusetts Clean Energy and Climate Plan for 2030" %}}
+[Massachusetts Clean Energy and Climate Plan for 2030](https://www.mass.gov/info-details/massachusetts-clean-energy-and-climate-plan-for-2030#interim-clean-energy-and-climate-report-for-2030-)
 
-{{% resource_link "ae1767b2-74ac-42f5-9119-9f8eed1abbdf" "Massachusetts 2050 Decarbonization Roadmap (PDF - 34.8 MB)" %}}
+[Massachusetts 2050 Decarbonization Roadmap (PDF - 34.8 MB)](https://www.mass.gov/doc/ma-2050-decarbonization-roadmap/download)
 
-{{% resource_link "a178fc2f-2cc6-4924-8e79-0ced2ff2368d" "Transportation Sector Technical Report (PDF - 1.8 MB)" %}}
+[Transportation Sector Technical Report (PDF - 1.8 MB)](https://www.mass.gov/doc/transportation-sector-technical-report/download)
